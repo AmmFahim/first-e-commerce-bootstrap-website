@@ -3,6 +3,7 @@
 }
 .orange-bg{
     background-color: #fceae8;
+    border-radius: 5%;
 }
 .buy-now-button{
     background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
@@ -22,4 +23,42 @@
 }
 .carousel-item{
     padding: 20px 40px;
+}
+.product1, .product2, .product3{
+    padding: 20px 40px;
+
+}
+.product1{
+    background-color: orange;
+    border-radius: 5%;
+
+}
+.product2{
+    background-color: #da70d6;
+    border-radius: 5%;
+
+}
+.product3{
+    background-color: #0000ff;
+    border-radius: 5%;
+
+}
+.gp h1{
+    color: cornsilk;
+
+}
+.gp img{
+    width: 100px;
+}
+.card{
+    border-radius: 5%;
+    box-shadow: 10px 10px 20px gray;
+}
+#watches img{
+    width: 100px;
+}
+.bc{
+    background-color: #fceae8;
+    border-radius: 30px;
+    height: 300px;
 }
